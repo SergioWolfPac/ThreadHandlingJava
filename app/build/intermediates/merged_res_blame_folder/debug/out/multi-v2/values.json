@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\s3rgi\\Desktop\\Coding\\cs478\\cs478proj4-sruela2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\s3rgi\\Desktop\\Coding\\cs478\\cs478proj4-sruela2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,6,5,3,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,445,212,114,172",
+                        "endColumns": "58,39,232,57,39",
+                        "endOffsets": "109,480,440,167,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,114,154,387,445",
+                        "endColumns": "58,39,232,57,39",
+                        "endOffsets": "109,149,382,440,480"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\s3rgi\\Desktop\\Coding\\cs478\\cs478proj4-sruela2\\app\\src\\main\\res\\values\\style.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "452"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "485",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "873"
+                    }
+                }
+            ]
+        }
+    ]
+}

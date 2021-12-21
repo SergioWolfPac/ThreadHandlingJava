@@ -1,0 +1,4 @@
+#Mon Dec 20 23:38:03 CST 2021
+base.0=C\:\\Users\\s3rgi\\Desktop\\Coding\\cs478\\cs478proj4-sruela2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
